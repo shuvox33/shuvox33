@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="800" src="https://i.ibb.co/8cTwjgz/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png">
+<img align="right" alt="Coding" width="900" src="https://i.ibb.co/8cTwjgz/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png">
 <br>
 <br>
 
