@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.ibb.co/8cTwjgz/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/8cTwjgz/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png">
 
 # 💫 About Me:
 🚀 I’m currently working on [Learn-logix](https://github.com/shuvox33/learn-logix)<br>🌱 Currently Learning Next JS<br>💬 Ask Me About Front-end Development<br>How to reach me **shuvox33@gmail.com**
