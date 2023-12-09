@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://i.ibb.co/8cTwjgz/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt=”my banner”>
+<img width=”200" height=”200" URL=”https://i.ibb.co/8cTwjgz/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt=”my banner”>
 
 </p>
 # 💫 About Me:
