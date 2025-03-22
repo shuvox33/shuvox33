@@ -1,5 +1,5 @@
 
-<img align="top" alt="Coding" width="full" src="https://i.ibb.co/8cTwjgz/github-banner.png">
+<img align="top" alt="Coding" width="full" src="https://i.ibb.co.com/gFRKZf4P/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png">
 <br>
 <br>
 
