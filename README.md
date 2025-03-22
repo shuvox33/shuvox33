@@ -4,7 +4,7 @@
 <div align="center">
   
 # 💫 About Me:
-🚀 I'm a passionate front-end developer who loves building interactive and efficient web applications. I specialize in crafting modern, responsive, and scalable UI solutions.🚀<br>
+I'm a passionate front-end developer who loves building interactive and efficient web applications. I specialize in crafting modern, responsive, and scalable UI solutions.🚀<br>
 💬 Ask Me About Front-end Development<br>
 📫 How to reach me **shuvox33@gmail.com**
 
