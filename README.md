@@ -4,8 +4,7 @@
 <div align="center">
   
 # 💫 About Me:
-🚀 I’m currently working on [Learn-logix](https://github.com/shuvox33/learn-logix)<br>
-🌱 Currently Learning Next JS<br>
+🚀 I'm a passionate front-end developer who loves building interactive and efficient web applications. I specialize in crafting modern, responsive, and scalable UI solutions.
 💬 Ask Me About Front-end Development<br>
 📫 How to reach me **shuvox33@gmail.com**
 
@@ -29,9 +28,6 @@
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-icon.svg" alt="redux" width="40" height="40"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
